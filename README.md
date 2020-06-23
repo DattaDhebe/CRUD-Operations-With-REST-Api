@@ -14,3 +14,4 @@ https://www.youtube.com/watch?v=x3NAo8zqdmo&feature=youtu.be
 1.  node.js
 2.  json-server
 3.  postman application
+4.  faker.js
